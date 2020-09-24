@@ -40,4 +40,4 @@
 [makotos-nlproc/web-resource.md](https://gist.github.com/makotos-nlproc/6ddd30ed75ff322b7a72fa48b20d4af6)
 
 ### 4.2 マイルール
-[[makotos-nlproc/my-rule.md](https://gist.github.com/makotos-nlproc/d6a53763a134a2d0a67d88629bd8b00e)
+[makotos-nlproc/my-rule.md](https://gist.github.com/makotos-nlproc/d6a53763a134a2d0a67d88629bd8b00e)
